@@ -3,7 +3,9 @@ Retail Sales Analysis & Interactive Dashboard
 Project Overview
 Interactive Dashboard
 [Open the Interactive Dashboard](https://esraaashraf20.github.io/retail-sales-analysis/retail_sales_dashboard.html)
+### Dashboard Preview
 
+![Retail Sales Dashboard](retail_sales_dashboard.png)
 Explore sales performance, category revenue, and monthly trends through interactive Plotly charts.
 
 This project analyzes retail sales data to understand sales performance, product categories, monthly trends, and customer demographics.
